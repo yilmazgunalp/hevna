@@ -1,0 +1,498 @@
+Zildjian,KR18C,K Kerope,Kerope,Crash,18,
+Zildjian,KR19C,K Kerope,Kerope,Crash,19,
+Zildjian,KR20R,K Kerope,Kerope,Ride,20,
+Zildjian,KR22R,K Kerope,Kerope,Ride,22,
+Zildjian,KRM20R,K Kerope,Kerope Medium,Ride,20,
+Zildjian,KRM22R,K Kerope,Kerope Medium,Ride,22,
+Zildjian,KR14PR,K Kerope,Kerope HiHats,Ride,14,pair
+Zildjian,KR14HT,K Kerope,Kerope HiHats,Ride,14,top hat
+Zildjian,KR14HB,K Kerope,Kerope HiHats,Ride,14,bottom hat
+Zildjian,KR15PR,K Kerope,Kerope HiHats,Ride,15,pair
+Zildjian,KR15HT,K Kerope,Kerope HiHats,Ride,15,top hat
+Zildjian,KR15HB,K Kerope,Kerope HiHats,Ride,15,bottom hat
+Zildjian,K20889,K Custom,Custom Ride,Ride,20,
+Zildjian,K0854,K Custom,Custom Medium Ride,Ride,20,
+Zildjian,K0856,K Custom,Custom Medium Ride,Ride,22,
+Zildjian,K0963,K Custom,Custom Dark Complex Ride,Ride,21,
+Zildjian,K0965,K Custom,Custom Dark Ride,Ride,20,
+Zildjian,K0967,K Custom,Custom Dark Ride,Ride,22,
+Zildjian,K0886,K Custom,Custom Dry Ride,Ride,20,
+Zildjian,K0997,K Custom,Custom Session Ride,Ride,20,
+Zildjian,K0998,K Custom,Custom Hybrid Ride,Ride,20,
+Zildjian,K0999,K Custom,Custom Hybrid Ride,Ride,21,
+Zildjian,K0986,K Custom,Custom Left Side Ride with 3 Rivets,Ride,20,
+Zildjian,K0989,K Custom,Custom High Definition Ride,Ride,22,
+Zildjian,K0882,K Custom,Custom Flat Top Ride,Ride,20,
+Zildjian,K0971,K Custom,Custom Organic Ride,Ride,21,
+Zildjian,K1426,K Custom,Custom Special Dry Ride,Ride,21,
+Zildjian,K1429,K Custom,Custom Special Dry Ride,Ride,23,
+Zildjian,K0930,K Custom,Custom Dark Splash,Splash,8,
+Zildjian,K0932,K Custom,Custom Dark Splash,Splash,10,
+Zildjian,K0934,K Custom,Custom Dark Splash,Splash,12,
+Zildjian,K1209,K Custom,Custom Hybrid Splash,Splash,9,
+Zildjian,K1211,K Custom,Custom Hybrid Splash,Splash,11,
+Zildjian,K1401,K Custom,Custom Special Dry Splash,Splash,10,
+Zildjian,K0951,K Custom,Custom Dark Crash,Crash,16,
+Zildjian,K0952,K Custom,Custom Dark Crash,Crash,17,
+Zildjian,K0953,K Custom,Custom Dark Crash,Crash,18,
+Zildjian,K0954,K Custom,Custom Dark Crash,Crash,19,
+Zildjian,K0955,K Custom,Custom Dark Crash,Crash,20,
+Zildjian,K0980,K Custom,Custom Fast Crash,Crash,14,
+Zildjian,K0982,K Custom,Custom Fast Crash,Crash,16,
+Zildjian,K0983,K Custom,Custom Fast Crash,Crash,17,
+Zildjian,K0984,K Custom,Custom Fast Crash,Crash,18,
+Zildjian,K0990,K Custom,Custom Session Crash,Crash,16,
+Zildjian,K0991,K Custom,Custom Session Crash,Crash,18,
+Zildjian,K1216,K Custom,Custom Hybrid Crash,Crash,16,
+Zildjian,K1217,K Custom,Custom Hybrid Crash,Crash,17,
+Zildjian,K1218,K Custom,Custom Hybrid Crash,Crash,18,
+Zildjian,K1219,K Custom,Custom Hybrid Crash,Crash,19,
+Zildjian,K1416,K Custom,Custom Special Dry Crash,Crash,16,
+Zildjian,K1416,K Custom,Custom Special Dry Trash Crash,Crash,17,
+Zildjian,K1419,K Custom,Custom Special Dry Crash,Crash,18,
+Zildjian,K1422,K Custom,Custom Special Dry Crash,Crash,19,
+Zildjian,K1423,K Custom,Custom Special Dry Trash Crash,Crash,19,
+Zildjian,K1424,K Custom,Custom Special Dry Crash,Crash,20,
+Zildjian,K1427,K Custom,Custom Special Dry Trash Crash,Crash,21,
+Zildjian,K1428,K Custom,Custom Special Dry Crash,Crash,22,
+Zildjian,K0940,K Custom,Custom Dark HiHats,Hi Hats,13,pair
+Zildjian,K0941,K Custom,Custom Dark HiHats,Hi Hats,13,top hat
+Zildjian,K0942,K Custom,Custom Dark HiHats,Hi Hats,13,botom hat
+Zildjian,K0943,K Custom,Custom Dark HiHats,Hi Hats,14,pair
+Zildjian,K0944,K Custom,Custom Dark HiHats,Hi Hats,14,top hat
+Zildjian,K0945,K Custom,Custom Dark HiHats,Hi Hats,14,botom hat
+Zildjian,K0993,K Custom,Custom Session HiHats,Hi Hats,14,pair
+Zildjian,K0994,K Custom,Custom Session HiHats,Hi Hats,14,top hat
+Zildjian,K0995,K Custom,Custom Session HiHats,Hi Hats,14,botom hat
+Zildjian,K1213,K Custom,Custom Hybrid HiHats,Hi Hats,13,pair
+Zildjian,K1214,K Custom,Custom Hybrid HiHats,Hi Hats,13,top hat
+Zildjian,K1215,K Custom,Custom Hybrid HiHats,Hi Hats,13,botom hat
+Zildjian,K1224,K Custom,Custom Hybrid HiHats,Hi Hats,14,pair
+Zildjian,K1225,K Custom,Custom Hybrid HiHats,Hi Hats,14,top hat
+Zildjian,K1226,K Custom,Custom Hybrid HiHats,Hi Hats,14,botom hat
+Zildjian,K1405,K Custom,Custom Special Dry HiHats,Hi Hats,13,pair
+Zildjian,K1406,K Custom,Custom Special Dry HiHats,Hi Hats,13,top hat
+Zildjian,K1407,K Custom,Custom Special Dry HiHats,Hi Hats,13,botom hat
+Zildjian,K1408,K Custom,Custom Special Dry HiHats,Hi Hats,14,pair
+Zildjian,K1409,K Custom,Custom Special Dry HiHats,Hi Hats,14,top hat
+Zildjian,K1410,K Custom,Custom Special Dry HiHats,Hi Hats,14,botom hat
+Zildjian,K1411,K Custom,Custom Special Dry HiHats,Hi Hats,15,pair
+Zildjian,K1412,K Custom,Custom Special Dry HiHats,Ride,15,
+Zildjian,K1413,K Custom,Custom Special Dry HiHats,Ride,15,
+Zildjian,K0970,K Custom,Custom Dark China,China,17,
+Zildjian,K1221,K Custom,Custom Hybrid China,China,17,
+Zildjian,K1220,K Custom,Custom Hybrid China,China,19,
+Zildjian,K0954,K Custom,Custom Hybrid Trash Smash,Effect,19,
+Zildjian,K1420,K Custom,Custom Special Dry China Trash,China,18,
+Zildjian,KCH390,K Custom,K Custom Hybrid Cymbal Set,SET,,
+Zildjian,KCD900,K Custom,K Custom Dark Cymbal Set,SET,, 
+Zildjian,K0817,K Zildjian,Ride,Ride,20,
+Zildjian,K0819,K Zildjian,Ride,Ride,22,
+Zildjian,K0846,K Zildjian,Heavy Ride,Ride,20,
+Zildjian,K0830,K Zildjian,Dark Medium Ride,Ride,22,
+Zildjian,K0832,K Zildjian,Light Ride,Ride,22,
+Zildjian,K0834,K Zildjian,Light Ride,Ride,24,
+Zildjian,K0818,K Zildjian,Light Flat Ride,Flat Ride,20,
+Zildjian,K0808,K Zildjian,Crash Ride,Crash Ride,18,
+Zildjian,K0810,K Zildjian,Crash Ride,Crash Ride,20,
+Zildjian,K20835,K Zildjian,Crash Ride,Crash Ride,21,
+Zildjian,K0857,K Zildjian,Splash,Splash,8,
+Zildjian,K0858,K Zildjian,Splash,Splash,10,
+Zildjian,K0859,K Zildjian,Splash,Crash,12,
+Zildjian,K0901,K Zildjian,Dark Crash Thin,Crash,15,
+Zildjian,K0902,K Zildjian,Dark Crash Thin,Crash,16,
+Zildjian,K0903,K Zildjian,Dark Crash Thin,Crash,17,
+Zildjian,K0904,K Zildjian,Dark Crash Thin,Crash,18,
+Zildjian,K0905,K Zildjian,Dark Crash Thin,Crash,19,
+Zildjian,K0912,K Zildjian,Dark Crash Thin,Crash,20,
+Zildjian,K0913,K Zildjian,Dark Crash Medium Thin,Crash,16,
+Zildjian,K0914,K Zildjian,Dark Crash Medium Thin,Crash,17,
+Zildjian,K0915,K Zildjian,Dark Crash Medium Thin,Crash,18,
+Zildjian,K0820,K Zildjian,HiHats,Hi Hats,13,Hi Hats
+Zildjian,K0821,K Zildjian,HiHats,Hi Hats,13,Top Hat
+Zildjian,K0822,K Zildjian,HiHats,Hi Hats,13,Bottom Hat
+Zildjian,K0823,K Zildjian,HiHats,Hi Hats,14,Hi Hats
+Zildjian,K0824,K Zildjian,HiHats,Hi Hats,14,Top Hat
+Zildjian,K0825,K Zildjian,HiHats,Hi Hats,14,Bottom Hat
+Zildjian,K0812,K Zildjian,Light HiHats,Hi Hats,14,Hi Hats
+Zildjian,K0813,K Zildjian,Light HiHats,Hi Hats,14,Top Hat
+Zildjian,K0814,K Zildjian,Light HiHatsHi Hats,14,Bottom Hat
+Zildjian,K0923,K Zildjian,Light HiHats,Hi Hats,15,Hi Hats
+Zildjian,K0924,K Zildjian,Light HiHats,Hi Hats,15,Top Hat
+Zildjian,K0925,K Zildjian,Light HiHats,Hi Hats,15,Bottom Hat
+Zildjian,K0926,K Zildjian,Light HiHats,Hi Hats,16,Hi Hats
+Zildjian,K0927,K Zildjian,Light HiHats,Hi Hats,16,Top Hat
+Zildjian,K0928,K Zildjian,Light HiHats,Hi Hats,16,Bottom Hat
+Zildjian,K0909,K Zildjian,Mastersound HiHats,Hi Hats,14,Hi Hats
+Zildjian,K0910,K Zildjian,Mastersound HiHats,Hi Hats,14,Top Hat
+Zildjian,K0911,K Zildjian,Mastersound HiHats,Hi Hats,14,Bottom Hat
+Zildjian,K0829,K Zildjian,Special K/Z HiHats Top- K Zildjian Top Bot.- A Dyno Beat,Hi Hats,13,
+Zildjian,K0839,K Zildjian,Special K/Z HiHats Top- K Zildjian Top Bot.- A Dyno Beat,Hi Hats,14,
+Zildjian,K0881,K Zildjian,Mini China,China,14,
+Zildjian,K0883,K Zildjian,China,China,17,
+Zildjian,K0885,K Zildjian,China,China,19,
+Zildjian,K0890,K Zildjian,EFX,Effect,16,
+Zildjian,K0888,K Zildjian,EFX,Effect,18,
+Zildjian,K0800,K Zildjian,K Zildjian Cymbal Set,SET,, 
+Zildjian,A20518,A Custom,Custom Ride,Ride,20,
+Zildjian,A20520,A Custom,Custom Ride,Ride,22,
+Zildjian,A20519,A Custom,Custom Medium Ride,Ride,20,
+Zildjian,A20523,A Custom,Custom Medium Ride,Ride,22,
+Zildjian,A20522,A Custom,Custom Ping Ride,Ride,20,
+Zildjian,A20524,A Custom,Custom Ping Ride,Ride,22,
+Zildjian,A20526,A Custom,Custom Sizzle Ride with 6 Rivets,Ride,20,
+Zildjian,A20586,A Custom,Custom Projection Ride,Ride,20,
+Zildjian,A20822,A Custom,Custom 20th Anniversary Ride,Ride,21,
+Zildjian,A20538,A Custom,Custom Splash,Splash,6,
+Zildjian,A20540,A Custom,Custom Splash,Splash,8,
+Zildjian,A20542,A Custom,Custom Splash,Splash,10,
+Zildjian,A20544,A Custom,Custom Splash,Splash,12,
+Zildjian,A20525,A Custom,Custom Crash,Crash,14,
+Zildjian,A20513,A Custom,Custom Crash,Crash,15,
+Zildjian,A20514,A Custom,Custom Crash,Crash,16,
+Zildjian,A20515,A Custom,Custom Crash,Crash,17,
+Zildjian,A20516,A Custom,Custom Crash,Crash,18,
+Zildjian,A20517,A Custom,Custom Crash,Crash,19,
+Zildjian,A20588,A Custom,Custom Crash,Crash,20,
+Zildjian,A20582,A Custom,Custom Projection Crash,Crash,16,
+Zildjian,A20583,A Custom,Custom Projection Crash,Crash,17,
+Zildjian,A20584,A Custom,Custom Projection Crash,Crash,18,
+Zildjian,A20585,A Custom,Custom Projection Crash,Crash,19,
+Zildjian,A20580,A Custom,Custom Projection Crash,Crash,20,
+Zildjian,A20826,A Custom,Custom Medium Crash,Crash,16,
+Zildjian,A20827,A Custom,Custom Medium Crash,Crash,17,
+Zildjian,A20828,A Custom,Custom Medium Crash,Crash,18,
+Zildjian,A20829,A Custom,Custom Medium Crash,Crash,19,
+Zildjian,A20536,A Custom,Custom Fast Crash,Crash,14,
+Zildjian,A20531,A Custom,Custom Fast Crash,Crash,15,
+Zildjian,A20532,A Custom,Custom Fast Crash,Crash,16,
+Zildjian,A20533,A Custom,Custom Fast Crash,Crash,17,
+Zildjian,A20534,A Custom,Custom Fast Crash,Crash,18,
+Zildjian,A20507,A Custom,Custom HiHats,Hi Hats,13,Hi Hats
+Zildjian,A20508,A Custom,Custom HiHats,Hi Hats,13,Top Hat
+Zildjian,A20509,A Custom,Custom HiHats,Hi Hats,13,Bottom Hat
+Zildjian,A20510,A Custom,Custom HiHats,Hi Hats,14,Hi Hats
+Zildjian,A20511,A Custom,Custom HiHats,Hi Hats,14,Top Hat
+Zildjian,A20512,A Custom,Custom HiHats,Hi Hats,14,Bottom Hat
+Zildjian,A20500,A Custom,Custom Mastersound HiHats,Hi Hats,13,Hi Hats
+Zildjian,A20501,A Custom,Custom Mastersound HiHats,Hi Hats,13,Top Hat
+Zildjian,A20502,A Custom,Custom Mastersound HiHats,Hi Hats,13,Bottom Hat
+Zildjian,A20550,A Custom,Custom Mastersound HiHats,Hi Hats,14,Hi Hats
+Zildjian,A20551,A Custom,Custom Mastersound HiHats,Hi Hats,14,Top Hat
+Zildjian,A20552,A Custom,Custom Mastersound HiHats,Hi Hats,14,Bottom Hat
+Zildjian,A20553,A Custom,Custom Mastersound HiHats,Hi Hats,15,Hi Hats
+Zildjian,A20554,A Custom,Custom Mastersound HiHats,Hi Hats,15,Top Hat
+Zildjian,A20555,A Custom,Custom Mastersound HiHats,Hi Hats,15,Bottom Hat
+Zildjian,A20529,A Custom,Custom China B,China,18,
+Zildjian,A20530,A Custom,Custom China B,China,20,
+Zildjian,A20808,A Custom,Custom EFX B,Effect,10,
+Zildjian,A20814,A Custom,Custom EFX B,Effect,14,
+Zildjian,A20816,A Custom,Custom EFX B,Effect,16,
+Zildjian,A20818,A Custom,Custom EFX B,Effect,18,
+Zildjian,A20820,A Custom,Custom EFX B,Effect,20,
+Zildjian,A20579-11,A Custom,A Custom Cymbal Set,SET,,
+Zildjian,A18C,A Avedis,A Avedis,Crash,18,
+Zildjian,A19C,A Avedis,A Avedis,Crash,19,
+Zildjian,A20R,A Avedis,A Avedis,Ride,20,
+Zildjian,A20R,A Avedis,A Avedis,Ride,21,
+Zildjian,A22R,A Avedis,A Avedis,Ride,22,
+Zildjian,A14HPR,A Avedis,A Avedis HiHats,Hi Hats,14,Hi Hats
+Zildjian,A14HT,A Avedis,A Avedis HiHats,Hi Hats,14,Top Hat
+Zildjian,A14HB,A Avedis,A Avedis HiHats,Hi Hats,14,Bottom Hat
+Zildjian,A15PR,A Avedis,A Avedis iHats,Hi Hats,15,Hi Hats
+Zildjian,A15HT,A Avedis,A Avedis HiHats,Hi Hats,15,Top Hat
+Zildjian,A15HB,A Avedis,A Avedis HiHats,Hi Hats,15,Bottom Hat
+Zildjian,A16PR,A Avedis,A Avedis HiHats,Hi Hats,16,Hi Hats
+Zildjian,A16HT,A Avedis,A Avedis HiHats,Hi Hats,16,Top Hat
+Zildjian,A16HB,A Avedis,A Avedis HiHats,Hi Hats,16,Bottom Hat
+Zildjian,A0034,A Zildjian,Medium Ride,Ride,20,
+Zildjian,A0036,A Zildjian,Medium Ride,Ride,22,
+Zildjian,A0037,A Zildjian,Medium Ride,Ride,24,
+Zildjian,A0042,A Zildjian,Ping Ride,Ride,20,
+Zildjian,A0080,A Zildjian,Rock Ride,Ride,20,
+Zildjian,A0081,A Zildjian,Rock Ride,Ride,21,
+Zildjian,A0079,A Zildjian,Sweet Ride,Ride,21,
+Zildjian,A0082,A Zildjian,Sweet Ride,Ride,23,
+Zildjian,A20079,A Zildjian,Sweet Ride,Ride,21,
+Zildjian,A0022,A Zildjian,Crash Ride,Crash Ride,18,
+Zildjian,A0024,A Zildjian,Crash Ride,Crash Ride,20,
+Zildjian,A0044,A Zildjian,Armand Ride with 3 Rivets,Ride,19,
+Zildjian,A0052,A Zildjian,Medium-Heavy Ride,Ride,22,
+Zildjian,A0070,A Zildjian,Mega Bell Ride,Ride,21,
+Zildjian,A0206,A Zildjian,Splash,Splash,6,
+Zildjian,A0210,A Zildjian,Splash,Splash,8,
+Zildjian,A0211,A Zildjian,Splash,Splash,10,
+Zildjian,A0212,A Zildjian,Splash,Splash,12,
+Zildjian,A0308,A Zildjian,Flash Splash,Splash,8,
+Zildjian,A0310,A Zildjian,Flash Splash,Splash,10,
+Zildjian,A0264,A Zildjian,Fast Crash,Crash,14,
+Zildjian,A0265,A Zildjian,Fast Crash,Crash,15,
+Zildjian,A0266,A Zildjian,Fast Crash,Crash,16,
+Zildjian,A0267,A Zildjian,Fast Crash,Crash,17,
+Zildjian,A0268,A Zildjian,Fast Crash,Crash,18,
+Zildjian,A0223,A Zildjian,Thin Crash,Crash,16,
+Zildjian,A0224,A Zildjian,Thin Crash,Crash,17,
+Zildjian,A0225,A Zildjian,Thin Crash,Crash,18,
+Zildjian,A0226,A Zildjian,Thin Crash,Crash,19,
+Zildjian,A0227,A Zildjian,Thin Crash,Crash,20,
+Zildjian,A0230,A Zildjian,Medium Thin Crash,Crash,16,
+Zildjian,A0231,A Zildjian,Medium Thin Crash,Crash,17,
+Zildjian,A0232,A Zildjian,Medium Thin Crash,Crash,18,
+Zildjian,A0233,A Zildjian,Medium Thin Crash,Crash,19,
+Zildjian,A0234,A Zildjian,Medium Thin Crash,Crash,20,
+Zildjian,A0240,A Zildjian,Medium Crash,Crash,16,
+Zildjian,A0242,A Zildjian,Medium Crash,Crash,18,
+Zildjian,A0250,A Zildjian,Rock Crash,Crash,16,
+Zildjian,A0252,A Zildjian,Rock Crash,Crash,18,
+Zildjian,A0276,A Zildjian,Heavy Crash,Crash,16,
+Zildjian,A0277,A Zildjian,Heavy Crash,Crash,17,
+Zildjian,A0278,A Zildjian,Heavy Crash,Crash,18,
+Zildjian,A0279,A Zildjian,Heavy Crash,Crash,19,
+Zildjian,A0130,A Zildjian,New Beat HiHats,Hi Hats,13,Hi Hats
+Zildjian,A0131,A Zildjian,New Beat HiHats,Hi Hats,13,Top Hat
+Zildjian,A0132,A Zildjian,New Beat HiHats,Hi Hats,13,Bottom Hat
+Zildjian,A0133,A Zildjian,New Beat HiHats,Hi Hats,14,Hi Hats
+Zildjian,A0134,A Zildjian,New Beat HiHats,Hi Hats,14,Top Hat
+Zildjian,A0135,A Zildjian,New Beat HiHats,Hi Hats,14,Bottom Hat
+Zildjian,A0136,A Zildjian,New Beat HiHats,Hi Hats,15,Hi Hats
+Zildjian,A0137,A Zildjian,New Beat HiHats,Hi Hats,15,Top Hat
+Zildjian,A0138,A Zildjian,New Beat HiHats,Hi Hats,15,Bottom Hat
+Zildjian,A0120,A Zildjian,Mastersound HiHats,Hi Hats,13,Hi Hats
+Zildjian,A0121,A Zildjian,Mastersound HiHats,Hi Hats,13,Top Hat
+Zildjian,A0122,A Zildjian,Mastersound HiHats,Hi Hats,13,Bottom Hat
+Zildjian,A0123,A Zildjian,Mastersound HiHats,Hi Hats,14,Hi Hats
+Zildjian,A0124,A Zildjian,Mastersound HiHats,Hi Hats,14,Top Hat
+Zildjian,A0125,A Zildjian,Mastersound HiHats,Hi Hats,14,Bottom Hat
+Zildjian,A0160,A Zildjian,Rock HiHats,Hi Hats,14,Hi Hats
+Zildjian,A0161,A Zildjian,Rock HiHats,Hi Hats,14,Top Hat
+Zildjian,A0162,A Zildjian,Rock HiHats,Hi Hats,14,Bottom Hat
+Zildjian,A0150,A Zildjian,Quick Beat HiHats,Hi Hats,14,Hi Hats
+Zildjian,A0151,A Zildjian,Quick Beat HiHats,Hi Hats,14,Top Hat
+Zildjian,A0152,A Zildjian,Quick Beat HiHats,Hi Hats,14,Bottom Hat
+Zildjian,A0156,A Zildjian,Heavy HiHats,Hi Hats,15,Hi Hats
+Zildjian,A0157,A Zildjian,Heavy HiHats,Hi Hats,15,Top Hat
+Zildjian,A0158,A Zildjian,Heavy HiHats, bottom,Hi Hats,15,
+Zildjian,Z40131,A Zildjian,Dyno Beat HiHats, one only B,Hi Hats,13,
+Zildjian,Z40134,A Zildjian,Dyno Beat HiHats, one only B,Hi Hats,14,
+Zildjian,A0103,A Zildjian,Special Recording HiHats,Hi Hats,12,Hi Hats
+Zildjian,A0104,A Zildjian,Special Recording HiHats,top,Hi Hats,12,Top Hat
+Zildjian,A0105,A Zildjian,Special Recording HiHats,btm,Hi Hats,12,Bottom Hat
+Zildjian,A0144,A Zildjian,Pocket HiHats,Hi Hats,13,Hi Hats
+Zildjian,A0145,A Zildjian,Pocket HiHats,Hi Hats,13,Top Hat
+Zildjian,A0146,A Zildjian,Pocket HiHats,Hi Hats,13,Bottom Hat
+Zildjian,A0344,A Zildjian,China Low,China,18,
+Zildjian,A0352,A Zildjian,China High,China,16,
+Zildjian,A0354,A Zildjian,China High,China,18,
+Zildjian,A0315,A Zildjian,Swish Knocker with 20 Rivets,Effect,22,
+Zildjian,A0369,A Zildjian,Ultra Hammered China,China,19,
+Zildjian,A0361,A Zildjian,Ultra Hammered China,China,21,
+Zildjian,A391,A Zildjian,A Zildjian Cymbal Set,SET,,
+Zildjian,K0801C,Genre Cymbal Sets,Country Pack,SET,,15" K Light HiHats,17" K Dark Thin Crash,19" K Dark Thin Crash,20" K Crash Ride
+Zildjian,AC0801G,Genre Cymbal Sets,Gospel Pack,SET,,14" A Cus. Mastersound HiHats,17" A Custom Fast Crash,18" A Custom EFX,21" A Custom Anniversary Ride  
+Zildjian,A0801R,Genre Cymbal Sets,Rock Pack,SET,,14" A Mastersound HiHats,17" A Medium Thin Crash,19" A Medium Thin Crash,20" A Ping Ride 
+Zildjian,KC0801W,Genre Cymbal Sets,Worship Pack,SET,,14" K Custom Dark HiHats,16" K Custom Fast Crash,18" K Custom Fast Crash,20" K Custom Medium Ride
+Zildjian,A20015,FX,Latin Multi-Crash Hand& Stick,Effect,15,
+Zildjian,A20017,FX,El Sonido Multi Crash Ride,Effect,17,
+Zildjian,A0608,FX,China ˝Trash˝,Effect,8,
+Zildjian,A0610,FX,China ˝Trash˝,Effect,10,
+Zildjian,A0612,FX,China ˝Trash˝,Effect,12,
+Zildjian,A0613,FX,China ˝Trash˝,Effect,13,
+Zildjian,A0614,FX,China ˝Trash˝,Effect,14,
+Zildjian,A0615,FX,China ˝Trash˝,Effect,15,
+Zildjian,A0616,FX,China ˝Trash˝,Effect,16,
+Zildjian,A0618,FX,China ˝Trash˝,Effect,18,
+Zildjian,A0620,FX,China ˝Trash˝,Effect,20,
+Zildjian,A0621,FX,Crash of Doom,Effect,20,
+Zildjian,A0609,FX,˝Trash˝ Splash,Effect,9,
+Zildjian,A0611,FX,˝Trash˝ Splash,Effect,11,
+Zildjian,A20001,FX,ZIL-BEL Small,Effect,6,
+Zildjian,A20002,FX,ZIL-BEL Large,Effect,9.5,
+Zildjian,A20003,FX,ZIL-BEL Volcano Cup,Effect,7.5,
+Zildjian,ZXT8TRF,FX,Trashformer,Effect,8,
+Zildjian,ZXT10RTF,FX,Trashformer,Effect,10,
+Zildjian,ZXT14RTF,FX,Trashformer,Effect,14,
+Zildjian,FXSPL18,FX,Spiral Trash,Effect,18,
+Zildjian,FXSPL10,FX,Spiral Stacker,Effect,10,
+Zildjian,FXSPL12,FX,Spiral Stacker,Effect,12,
+Zildjian,P0770,FX,Dancer Zils,Effect,,Set of Two Pairs
+Zildjian,P0771,FX,Finger Cymbals,Effect,,Thick Pair
+Zildjian,P0773 ,FX,Finger Cymbals,Effect,,Thin Pair
+Zildjian,P0775,FX,Metal Castanets,Effect,,Pair
+Zildjian,S20MR,S,Medium Ride,Ride,20,
+Zildjian,S22MR,S,Medium Ride,Ride,22,
+Zildjian,S24MR,S,Medium Ride,Ride,24,
+Zildjian,S20RR,S,Rock Ride,Ride,20,
+Zildjian,S20RR,S,Rock Ride,Ride,22,
+Zildjian,S8S,S,Splash,Splash,8,
+Zildjian,S10S,S,Splash,Splash,10,
+Zildjian,S8CS,S,China Splash,Splash,8,
+Zildjian,S10CS,S,China Splash,Splash,10,
+Zildjian,S14TC,S,Thin Crash,Crash,14,
+Zildjian,S15TC,S,Thin Crash,Crash,15,
+Zildjian,S16TC,S,Thin Crash,Crash,16,
+Zildjian,S17TC,S,Thin Crash,Crash,17,
+Zildjian,S18TC,S,Thin Crash,Crash,18,
+Zildjian,S19TC,S,Thin Crash,Crash,18,
+Zildjian,S20TC,S,Thin Crash,Crash,20,
+Zildjian,S16MTC,S,Medium Thin Crash,Crash,16,
+Zildjian,S18MTC,S,Medium Thin Crash,Crash,18,
+Zildjian,S20MTC,S,Medium Thin Crash,Crash,20,
+Zildjian,S16RC,S,Rock Crash,Crash,16,
+Zildjian,S18RC,S,Rock Crash,Crash,18,
+Zildjian,S20RC,S,Rock Crash,Crash,20,
+Zildjian,S16TCR,S,Trash Crash,Crash,16,
+Zildjian,S18TCR,S,Trash Crash,Crash,18,
+Zildjian,S20TCRC,S,Trash Crash,Crash,20,
+Zildjian,S14HPR,S,HiHats,Hi Hats,14,Hi Hats
+Zildjian,S14HT,S,HiHats,Hi Hats,14,Top Hat
+Zildjian,S14HB,S,HiHats,Hi Hats,14,Bottom Hat
+Zildjian,S13MPR,S,Mastersound HiHats,Hi Hats,13,Hi Hats
+Zildjian,S13MT,S,Mastersound HiHats,Hi Hats,13,Top Hat
+Zildjian,S13MB,S,Mastersound HiHats,Hi Hats,13,Bottom Hat
+Zildjian,S14MPR,S,Mastersound HiHats,Hi Hats,14,Hi Hats
+Zildjian,S14MT,S,Mastersound HiHats,Hi Hats,14,Top Hat
+Zildjian,S14MB,S,Mastersound HiHats,Hi Hats,14,Bottom Hat
+Zildjian,S14RPR,S,Rock HiHats,Hi Hats,14,Hi Hats
+Zildjian,S14RT,S,Rock HiHats,Hi Hats,14,Top Hat
+Zildjian,S14RB,S,Rock HiHats,Hi Hats,14,Bottom Hat
+Zildjian,S10HPR,S,Mini-Hats,Hi Hats,10,Hi Hats
+Zildjian,S10HT,S,Mini-Hats,Hi Hats,10,Top Hat
+Zildjian,S10HB,S,Mini-Hats,Hi Hats,10,Bottom Hat
+Zildjian,S16CH,S,China,China,16,
+Zildjian,S18CH,S,China,China,18,
+Zildjian,S390,S,5 Cymbal Set-up,SET,,
+Zildjian,SROCKXL,S,Rock XL 4 Cymbal Set-up,SET,,
+Zildjian,ZBT20R,ZBT,Ride,Ride,20,
+Zildjian,ZBT22R,ZBT,Ride,Ride,22,
+Zildjian,ZBT18CR,ZBT,Crash Ride,Crash Ride,18,
+Zildjian,ZBT20CR,ZBT,Crash Ride,Crash Ride,20,
+Zildjian,ZBT10S,ZBT,Splash,Splash,10,
+Zildjian,ZBT14C,ZBT,Crash,Crash,14,
+Zildjian,ZBT16C,ZBT,Crash,Crash,16,
+Zildjian,ZBT17C,ZBT,Crash,Crash,17,
+Zildjian,ZBT18C,ZBT,Crash,Crash,18,
+Zildjian,ZBT19C,ZBT,Crash,Crash,19,
+Zildjian,ZBT13HP,ZBT,HiHats,Hi Hats,13,Hi Hats
+Zildjian,ZBT13HT,ZBT,HiHats,Hi Hats,13,Top Hat
+Zildjian,ZBT13HB,ZBT,HiHats,Hi Hats,13,Bottom Hat
+Zildjian,ZBT14HP,ZBT,HiHats,Hi Hats,14,Hi Hats
+Zildjian,ZBT14HT,ZBT,HiHats,Hi Hats,14,Top Hat
+Zildjian,ZBT14HB,ZBT,HiHats,Hi Hats,14,Bottom Hat
+Zildjian,ZBT16CH,ZBT,China,China,16,
+Zildjian,ZBT18CH,ZBT,China,China,18,
+Zildjian,ZBTPS3P-9,ZBT,4 Cymbal Set-up,SET,,
+Zildjian,ZBTP390-A,ZBT,5 Cymbal Set-up,SET,,
+Zildjian,ZBTE2P,ZBT,Expander 2 Cymbal Set,SET,, 
+Zildjian,ZPLZ10S,Planet Z,Splash,Splash,10,
+Zildjian,PLZ18CH,Planet Z,China,China,18,
+Zildjian,PLZ4PK,Planet Z,5 Cymbal Set-up,SET,,
+Zildjian,PLZ1318,Planet Z,3 Cymbal Set-up,SET,,
+Zildjian,PLZ1418,Planet Z,3 Cymbal Set-up,SET,,
+Zildjian,PLZ1316,Planet Z,3 Cymbal Set-up,SET,,
+Zildjian,LV8010S-S,L80,L80 Low Volume Splash,Splash,10,
+Zildjian,LV8016C-S,L80,L80 Low Volume Crash,Crash,16,
+Zildjian,LV8018CR-S,L80,L80 Low Volume Crash Ride,Crash Ride,18,
+Zildjian,LV8020R-S,L80,L80 Low Volume Ride,Ride,20,
+Zildjian,LV38,L80,3 Cymbal Set-up,SET,,13" HiHats, 18" Crash Ride
+Zildjian,LV368,L80,4 Cymbal Set-up,SET,,13" HiHats, 16" Crash, 18" Crash Ride
+Zildjian,LV468,L80,4 Cymbal Set-up,SET,,14" HiHats, 16" Crash, 18" Crash Ride
+Zildjian,G1618CR,Gen16,Crash Ride,Crash Ride,18,
+Zildjian,G1620R,Gen16,Ride,Ride,20,
+Zildjian,G1616C,Gen16,Crash,Crash,16,
+Zildjian,G1613HP,Gen16,HiHats,Hi Hats,13,
+Zildjian,G1614HP,Gen16,HiHats,Hi Hats,14,
+Zildjian,G1612S,Gen16,Splash,Splash,12,
+Zildjian,G1616CH,Gen16,China,China,16,
+Zildjian,G16BS1DS,Gen16,480DS Buffed Bronze,SET,,14" HiHats 18" Crash Ride 20" Ride Digital Cymbal Processor Cables Direct Source Pickups (3) 
+Zildjian,G16BS2DS,Gen16,368DS Buffed Bronze,SET,, 13" HiHats 16" Crash 18" Crash Ride Digital Cymbal Processor Cables Direct Source Pickups(3) 
+Zildjian,G16BS3DS,Gen16,38DS Buffed Bronze,SET,, 13" HiHats 18" Crash Ride Digital Cymbal Processor Cables Direct Source Pickups (2) 
+Zildjian,A0471,A Zildjian,Z-MAC Pairs,Hand Cymbals,14,
+Zildjian,A0475,A Zildjian,Z-MAC Pairs,Hand Cymbals,16,
+Zildjian,A0477,A Zildjian,Z-MAC Pairs,Hand Cymbals,18,
+Zildjian,A0479,A Zildjian,Z-MAC Pairs,Hand Cymbals,20,
+Zildjian,A0452,A Zildjian,Stadium Medium Pairs,Hand Cymbals,14,
+Zildjian,A0468,A Zildjian,Stadium Medium Pairs,Hand Cymbals,16,
+Zildjian,A0483,A Zildjian,Stadium Medium Pairs,Hand Cymbals,18,
+Zildjian,A0485,A Zildjian,Stadium Medium Pairs,Hand Cymbals,20,
+Zildjian,A0487,A Zildjian,Stadium Medium Heavy Pairs,Hand Cymbals,16,
+Zildjian,A0495,A Zildjian,Stadium Medium Heavy Pairs,Hand Cymbals,18,
+Zildjian,A0473,A Zildjian,Stadium Medium Heavy Pairs,Hand Cymbals,19,
+Zildjian,A0497,A Zildjian,Stadium Medium Heavy Pairs,Hand Cymbals,20,
+Zildjian,A0444,A Zildjian,Concert Stage Pairs,Hand Cymbals,16,
+Zildjian,A0454,A Zildjian,Concert Stage Pairs,Hand Cymbals,18,
+Zildjian,A0466,A Zildjian,Concert Stage Pairs,Hand Cymbals,20,
+Zildjian,S18BP,S,S Band Pairs,Hand Cymbals,18,
+Zildjian,S18US,S,S Suspended,Hand Cymbals,18,
+Zildjian,ZBT14BP,ZBT,ZBT Band Pairs,Hand Cymbals,14,
+Zildjian,ZBT16BP,ZBT,ZBT Band Pairs,Hand Cymbals,16,
+Zildjian,K1032,K Zildjian,K Constantinople- Special Selection Medium Heavy Pairs,Orchestral,17,
+Zildjian,K1002,K Zildjian,K Constantinople- Special Selection Medium Heavy Pairs,Orchestral,18,
+Zildjian,K1010,K Zildjian,K Constantinople- Special Selection Medium Heavy Pairs,Orchestral,20,
+Zildjian,K1138,K Zildjian,K Constantinople-Vintage Medium Light Pairs,Orchestral,16,
+Zildjian,K1140,K Zildjian,K Constantinople-Vintage Medium Light Pairs,Orchestral,18,
+Zildjian,K1142,K Zildjian,K Constantinople-Vintage Medium Light Pairs,Orchestral,20,
+Zildjian,K1136,K Zildjian,K Constantinople-Vintage Medium Heavy Pairs,Orchestral,16,
+Zildjian,K1122,K Zildjian,K Constantinople-Vintage Medium Heavy Pairs,Orchestral,18,
+Zildjian,K1144,K Zildjian,K Constantinople-Vintage Medium Heavy Pairs,Orchestral,20,
+Zildjian,K1000,K Zildjian,K Constantinople-Medium Light pr,Orchestral,18,
+Zildjian,K1008,K Zildjian,K Constantinople-Medium Light Pairs,Orchestral,20,
+Zildjian,K1022,K Zildjian,K Constantinople Suspended,Orchestral,16,
+Zildjian,K1023,K Zildjian,K Constantinople Suspended,Orchestral,17,
+Zildjian,K1012,K Zildjian,K Constantinople Suspended,Orchestral,18,
+Zildjian,K1014,K Zildjian,K Constantinople Suspended,Orchestral,20,
+Zildjian,A0751,A Zildjian,Classic Orchestral Selection Medium Light Pairs,Orchestral,16,
+Zildjian,A0759,A Zildjian,Classic Orchestral Selection Medium Light Pairs,Orchestral,18,
+Zildjian,A0767,A Zildjian,Classic Orchestral Selection Medium Light Pairs,Orchestral,20,
+Zildjian,A0771,A Zildjian,Classic Orchestral Selection Medium Light Pairs,Orchestral,22,
+Zildjian,A0781,A Zildjian,Classic Orchestral Selection Medium Pairs,Orchestral,17,
+Zildjian,A0783,A Zildjian,Classic Orchestral Selection Medium Pairs,Orchestral,19,
+Zildjian,A0753,A Zildjian,Classic Orchestral Selection Medium Heavy Pairs,Orchestral,16,
+Zildjian,A0761,A Zildjian,Classic Orchestral Selection Medium Heavy Pairs,Orchestral,18,
+Zildjian,A0769,A Zildjian,Classic Orchestral Selection Medium Heavy Pairs,Orchestral,20,
+Zildjian,A0427,A Zildjian,Symphonic French Tone Pairs,Orchestral,18,
+Zildjian,A0429,A Zildjian,Symphonic French Tone Pairs,Orchestral,20,
+Zildjian,A0447,A Zildjian,Symphonic Viennese Tone Pairs,Orchestral,18,
+Zildjian,A0449,A Zildjian,Symphonic Viennese Tone Pairs,Orchestral,20,
+Zildjian,A0490,A Zildjian,Symphonic German Tone Pairs,Orchestral,18,
+Zildjian,A0492,A Zildjian,Symphonic German Tone Pairs,Orchestral,20,
+Zildjian,A0412,A Zildjian,Classic Orchestral Selection Suspended,Orchestral,14,
+Zildjian,A0417,A Zildjian,Classic Orchestral Selection Suspended,Orchestral,16,
+Zildjian,A0419,A Zildjian,Classic Orchestral Selection Suspended,Orchestral,18,
+Zildjian,A0421,A Zildjian,Classic Orchestral Selection Suspended,Orchestral,20,
+Zildjian,K2014,K,K Symphonic Light Brilliant Pairs,Orchestral,18,
+Zildjian,K2018,K,K Symphonic Light Brilliant Pairs,Orchestral,20,
+Zildjian,K2102,K,K Symphonic  Pairs,Orchestral,17,
+Zildjian,K2104,K,K Symphonic  Pairs,Orchestral,18,
+Zildjian,K2106,K,K Symphonic  Pairs,Orchestral,19,
+Zildjian,K2108,K,K Symphonic  Pairs,Orchestral,20,
+Zildjian,P0512,K,Traditional Gong,Gong,12,
+Zildjian,P0561,K,Table-top Gong Stand,Gong,12,
+Zildjian,P0565,K,Traditional Gong and Table-top Stand Set,Gong,12,
+Zildjian,P0503,K,20X24,Gong,24,
+Zildjian,P0499,K,Traditional Gong,Gong,26,
+Zildjian,P0500,K,Traditional Gong,Gong,30,
+Zildjian,P0501,K,Traditional Gong,Gong,34,
+Zildjian,P0502,K,Traditional Gong,Gong,40,
+Zildjian,P0615,K,High Octave (13 Notes) w/o Bar,Crotales,,
+Zildjian,P0612,K,High Octave-Single Note (Specify Note),Crotales,,
+Zildjian,P0625,K,Low Octave (13 Notes) w/o Bar ,Crotales,,
+Zildjian,P0622,K,Low Octave-Single Note (Specify Note),Crotales,,
+Zildjian,K1101,K Zildjian,Constantinople Thin Ride Overhammered,Ride,22,
+Zildjian,K1118,K Zildjian,Constantinople Renaissance Ride,Ride,20,
+Zildjian,K1116,K Zildjian,Constantinople Renaissance Ride,Ride,22,
+Zildjian,K1115,K Zildjian,Constantinople Medium Thin Ride High,Ride,20,
+Zildjian,K1121,K Zildjian,Constantinople Medium Thin Ride High,Ride,22,
+Zildjian,K1113,K Zildjian,Constantinople Medium Thin Ride Low,Ride,20,
+Zildjian,K1119,K Zildjian,Constantinople Medium Thin Ride Low,Ride,22,
+Zildjian,K1060,K Zildjian,Constantinople Bounce Ride,Ride,20,
+Zildjian,K1114,K Zildjian,Constantinople Bounce Ride,Ride,22,
+Zildjian,K1069,K Zildjian,Constantinople Crash Ride,Crash Ride,19,
+Zildjian,K1016,K Zildjian,Constantinople Medium Ride,Ride,20,
+Zildjian,K1020,K Zildjian,Constantinople Medium Ride,Ride,22,
+Zildjian,K1066,K Zildjian,Constantinople Crash,Crash,16,
+Zildjian,K1067,K Zildjian,Constantinople Crash,Crash,17,
+Zildjian,K1068,K Zildjian,Constantinople Crash,Crash,18,
+Zildjian,K1070,K Zildjian,Constantinople HiHats,Hi Hats,14,Hi Hats
+Zildjian,K1071,K Zildjian,Constantinople HiHats,Hi Hats,14,Top Hat
+Zildjian,K1072,K Zildjian,Constantinople HiHats,Hi Hats,14,Bottom Hat
+
